@@ -1,4 +1,4 @@
-* Milagu Kozhambu
+* Milagu Kuzhambu
 
 ** Source
 This is a recipe I got from my father in law and I started making it because my wife really enjoys this. If you really like the taste of peppercorn and would like something spicy in your rice, this is an amazing choice.
@@ -9,10 +9,10 @@ This is a relatively easy recipe to make and is really quick for anyone who want
 ** Recipe
 For three peoplw
 - Roast well in oil
-  [ ] Pepper - 1 spoon
-  [ ] Chillies - 2 nos
-  [ ] Toor dal - 3/4 spoon
-  [ ] Urad dal - 1/2 spoon
+  - [ ] Pepper - 1 spoon
+  - [ ]  Chillies - 2 nos
+  - [ ] Toor dal - 3/4 spoon
+  - [ ] Urad dal - 1/2 spoon
 - Transfer to  mixie.
 - Add 1 small nellikkai(leaving this as is not to change his original text. This is Indian gooseberry) size tamarind.
 - Roast curry leaves in the left outOil , Hing to the mixture.
